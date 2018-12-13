@@ -1,0 +1,31 @@
+﻿  Game.cpp
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(72): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(73): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(80): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(81): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(82): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(87): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(88): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(89): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(95): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(96): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(97): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(98): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(104): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(105): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\game.cpp(106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Main.cpp
+  MyMatrix3.cpp
+  Vector3.cpp
+  Generating Code...
+c:\users\paul\desktop\muddygames-gameplay-programming-i-lab-07-5bca4e99ec23\sfmlopengl\mymatrix3.cpp(164): warning C4715: 'MyMatrix3::inverse': not all control paths return a value
+  SFMLOpenGL.vcxproj -> C:\Users\Paul\Desktop\MuddyGames-gameplay-programming-i-lab-07-5bca4e99ec23\Debug\SFMLOpenGL.exe
